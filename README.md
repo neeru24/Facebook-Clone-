@@ -15,4 +15,4 @@ Selectors like .container, .left-content, .card, .login-btn, .Forgotten-password
 Box shadow and border radius properties are used to give the card element a visually appealing look. <br>
 Input fields and buttons have specific styling to enhance their appearance and usability. <br>
 ## Contributions
-Contributions are welcome! If you have any suggestions, improvements, or feature requests, feel free to open an issue or create a pull request.
+Contributions are welcome! If you have any suggestions or feature requests, feel free to open an issue or create a pull request.
