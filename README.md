@@ -16,3 +16,8 @@ Box shadow and border radius properties are used to give the card element a visu
 Input fields and buttons have specific styling to enhance their appearance and usability. <br>
 ## Contributions
 Contributions are welcome! If you have any suggestions or feature requests, feel free to open an issue or create a pull request.
+
+### Output
+<img src="fbook.png" alt="fb">
+<br>
+<img src = "fbook2.png" alt="fb">
