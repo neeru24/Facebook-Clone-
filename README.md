@@ -1,5 +1,5 @@
 # Facebook Clone
-This project is a simplified version of Facebook's login/signup page. It aims to replicate the basic functionality and design elements of Facebook's interface using HTML and CSS.
+This project is of Facebook's login/signup page's clone. It aims to replicate the basic functionality and design elements of Facebook's interface using HTML and CSS.
 ## Technologies Used
 HTML: Used for structuring the page content. <br>
 CSS: Used for styling and layout design. <br>
